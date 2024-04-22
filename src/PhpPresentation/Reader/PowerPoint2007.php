@@ -809,7 +809,7 @@ class PowerPoint2007 implements ReaderInterface
                         }
                     
                     } catch (\Exception $e) {
-                        Log::error($pathImage);     
+                        
                     }
                 }
             }
